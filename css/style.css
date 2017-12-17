@@ -1,0 +1,40 @@
+body {
+  /*padding-top: 50px;*/
+  background-color:#FFF;
+  /*color:#CCC;*/
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.navbar {
+	color: #8A2BE2;
+}
+.navbar a:link {
+	color:#8A2BE2;
+}
+.navbar a:visited {
+	color:#8A2BE2;
+}
+#banner-img {
+	width:100%;
+	height:auto;
+}
+#carol-img {
+	float:right;
+	width:40%;
+	height:auto;
+}
+.highlight-items {
+	color:#8A2BE2;
+}
+h1 {
+	color:#8A2BE2;
+}
+#art-therapy-img {
+	height:300px;
+	width:auto;
+	align:center;
+}
+.navbar .wrap {text-align:center; }
